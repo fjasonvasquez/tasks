@@ -40,6 +40,7 @@ group :test, :development do
 	gem 'capybara'
 	gem 'guard-rspec'
 	gem 'ruby_gntp'
+	gem 'launchy'
 end
 
 # Use unicorn as the app server
